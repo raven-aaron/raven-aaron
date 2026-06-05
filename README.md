@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<img align="left" height="120" src="raccoon.gif" alt="raccoon animation" />
+<img align="left" height="220" src="raccoon.gif" alt="raccoon animation" />
 
 <h3 align="left">About me</h3>
 
