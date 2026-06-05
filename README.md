@@ -20,8 +20,7 @@
 
 <br clear="both">
 
-<img align="left" height="220" src="" alt="raccoon animation" />
-<video src="raccoon.gif" width="220" autoplay loop muted></video>
+<video align="left" src="https://github.com/raven-aaron/raven-aaron/raw/main/VideoRacconn.mp4" width="220" autoplay loop muted></video>
 
 <h3 align="left">About me</h3>
 
