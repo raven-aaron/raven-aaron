@@ -12,6 +12,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raven-aaron/raven-aaron/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raven-aaron/raven-aaron/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raven-aaron/raven-aaron/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <br clear="both">
 
 <h2 align="center">Software Engineering Student<br>Web Development | DevOps & Automation</h2>
@@ -100,12 +108,4 @@
   <img src="https://streak-stats.demolab.com?user=raven-aaron&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raven-aaron/raven-aaron/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raven-aaron/raven-aaron/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raven-aaron/raven-aaron/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
