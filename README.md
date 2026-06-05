@@ -6,7 +6,7 @@
 
 ###
 
-<img align="left" height="250" src="https://media1.tenor.com/m/DMhAnwz1yHkAAAAd/raccoon-math.gif"  />
+<img align="left" height="250" src="raccoon.gif"  />
 
 ###
 
