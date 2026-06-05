@@ -4,29 +4,7 @@
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=true&text=Hello%20mate,%20I'm%20Raven%20Aaron%20%20&fontSize=20&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=dark" />
 </div>
 
-###
-
-<div align="center">
-  <img height="600" src="Img.jfif" />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raven-aaron/raven-aaron/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raven-aaron/raven-aaron/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raven-aaron/raven-aaron/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<br clear="both">
-
 <h2 align="center">Software Engineering Student<br>Web Development | DevOps & Automation</h2>
-
-###
-
-<br clear="both">
 
 <h3 align="left">About me</h3>
 
@@ -37,6 +15,19 @@
 </p>
 
 <br clear="both">
+
+<div align="center">
+  <img height="600" src="Img.jfif" />
+</div>
+
+###
+<h3 align="center">Pac-Commits</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raven-aaron/raven-aaron/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raven-aaron/raven-aaron/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raven-aaron/raven-aaron/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
 
 ###
 
