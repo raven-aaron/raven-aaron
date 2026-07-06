@@ -1,0 +1,39 @@
+name: Generate Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # roda todo dia às 03:00 UTC
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Preparar branch dedicada aos cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin cards-output; then
+            git checkout cards-output
+          else
+            git checkout --orphan cards-output
+            git rm -rf . > /dev/null 2>&1 || true
+            git commit --allow-empty -m "init cards-output"
+            git push origin cards-output
+          fi
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: raven-aaron
