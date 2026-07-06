@@ -1,4 +1,4 @@
-name: Generate GitHub Stats
+name: Generate Profile Summary Cards
 
 on:
   schedule:
@@ -9,24 +9,17 @@ on:
       - main
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
     steps:
-      - name: Gerar imagens de estatísticas
-        uses: jstrieb/github-stats@master
-        with:
-          username: raven-aaron
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          exclude_repos: ""
-          exclude_langs: ""
-          include_all_commits: true
-          line_efficiency_enabled: false
-          card_width: 495
+      - uses: actions/checkout@v4
 
-      - name: Publicar no branch output
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: generated
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: raven-aaron
+          BRANCH_NAME: "output"
