@@ -7,7 +7,7 @@
 <table width="100%">
 <tr>
 <td width="30%" align="center">
-<img src="Img.jfif" width="260"/>
+<img src="Image.png" width="260"/>
 </td>
 <td width="70%">
 
@@ -111,8 +111,8 @@ Atualmente aprofundando **Linux, Docker, infraestrutura e práticas de DevOps** 
 
 <div align="center">
 
-<img height="195" src="https://raw.githubusercontent.com/raven-aaron/raven-aaron/output/overview.svg" alt="Estatísticas gerais"/>
-<img height="195" src="https://raw.githubusercontent.com/raven-aaron/raven-aaron/output/languages.svg" alt="Linguagens mais usadas"/>
+<img width="48%" src="https://raw.githubusercontent.com/raven-aaron/raven-aaron/output/profile-summary-card-output/vue/3-stats.svg" alt="Estatísticas gerais"/>
+<img width="48%" src="https://raw.githubusercontent.com/raven-aaron/raven-aaron/output/profile-summary-card-output/vue/1-repos-per-language.svg" alt="Linguagens mais usadas"/>
 
 <br>
 
