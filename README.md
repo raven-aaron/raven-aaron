@@ -11,16 +11,19 @@
 </td>
 <td width="70%">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=0E75B6&center=false&vCenter=true&width=560&lines=Transformando+processos+manuais+em+sistemas;Backend+enxuto.+Frontend+afiado.;Deploy+confi%C3%A1vel.+Zero+gambiarra." alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=0E75B6&center=false&vCenter=true&width=560&lines=Automatizando+processos.;Construindo+aplica%C3%A7%C3%B5es+web.;Aprofundando+Linux%2C+Docker+e+DevOps." alt="typing-svg" />
 
 <br>
 
-Desenvolvedor focado em **automação e desenvolvimento web**. Pego um processo manual, encontro o ponto de fricção e transformo em algo que roda sozinho — sem retrabalho, sem gambiarra.
+Desenvolvedor focado em **automação e desenvolvimento web**. Menos tarefas repetitivas, mais processos automatizados.
 
-Atualmente aprofundando **Linux, Docker, infraestrutura e práticas de DevOps** através de projetos reais.
+<br><br>
 
-<a href="SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+Atualmente aprofundando **Linux, Docker, infraestrutura e práticas de DevOps**.
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/raven-aaron-albuquerque"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/raven-aaron"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
@@ -91,21 +94,13 @@ Atualmente aprofundando **Linux, Docker, infraestrutura e práticas de DevOps** 
 
 <br>
 
-## 🐍 Atividade de contribuição
+## 🐍 Snake de contribuições
 
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raven-aaron/raven-aaron/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raven-aaron/raven-aaron/output/github-contribution-grid-snake.svg">
   <img alt="Snake animado das contribuições" src="https://raw.githubusercontent.com/raven-aaron/raven-aaron/output/github-contribution-grid-snake-dark.svg">
-</picture>
-</p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raven-aaron/raven-aaron/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raven-aaron/raven-aaron/pacman-output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/raven-aaron/raven-aaron/pacman-output/pacman-contribution-graph-dark.svg">
 </picture>
 </p>
 
