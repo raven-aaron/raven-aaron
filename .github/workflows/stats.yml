@@ -1,0 +1,32 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # roda todo dia às 03:00 UTC
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Gerar imagens de estatísticas
+        uses: jstrieb/github-stats@master
+        with:
+          username: raven-aaron
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          exclude_repos: ""
+          exclude_langs: ""
+          include_all_commits: true
+          line_efficiency_enabled: false
+          card_width: 495
+
+      - name: Publicar no branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: generated
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
