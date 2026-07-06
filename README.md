@@ -7,7 +7,7 @@
 <table width="100%">
 <tr>
 <td width="30%" align="center">
-<img src="Image.png" width="260"/>
+<img src="Img.jfif" width="260"/>
 </td>
 <td width="70%">
 
@@ -111,8 +111,8 @@ Atualmente aprofundando **Linux, Docker, infraestrutura e práticas de DevOps** 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=raven-aaron&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400&border_radius=10"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raven-aaron&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400&border_radius=10"/>
+<img height="195" src="https://raw.githubusercontent.com/raven-aaron/raven-aaron/output/overview.svg" alt="Estatísticas gerais"/>
+<img height="195" src="https://raw.githubusercontent.com/raven-aaron/raven-aaron/output/languages.svg" alt="Linguagens mais usadas"/>
 
 <br>
 
