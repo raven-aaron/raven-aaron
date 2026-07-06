@@ -7,7 +7,7 @@
 <table width="100%">
 <tr>
 <td width="30%" align="center">
-<img src="Image.png" width="260"/>
+<img src="image.png" width="260"/>
 </td>
 <td width="70%">
 
@@ -94,7 +94,11 @@ Atualmente aprofundando **Linux, Docker, infraestrutura e práticas de DevOps** 
 ## 🐍 Atividade de contribuição
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/raven-aaron/raven-aaron/output/github-contribution-grid-snake.svg" alt="Snake animado das contribuições" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raven-aaron/raven-aaron/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raven-aaron/raven-aaron/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animado das contribuições" src="https://raw.githubusercontent.com/raven-aaron/raven-aaron/output/github-contribution-grid-snake-dark.svg">
+</picture>
 </p>
 
 <p align="center">
@@ -111,8 +115,8 @@ Atualmente aprofundando **Linux, Docker, infraestrutura e práticas de DevOps** 
 
 <div align="center">
 
-<img width="48%" src="https://raw.githubusercontent.com/raven-aaron/raven-aaron/output/profile-summary-card-output/vue/3-stats.svg" alt="Estatísticas gerais"/>
-<img width="48%" src="https://raw.githubusercontent.com/raven-aaron/raven-aaron/output/profile-summary-card-output/vue/1-repos-per-language.svg" alt="Linguagens mais usadas"/>
+<img width="48%" src="https://raw.githubusercontent.com/raven-aaron/raven-aaron/cards-output/profile-summary-card-output/vue/3-stats.svg" alt="Estatísticas gerais"/>
+<img width="48%" src="https://raw.githubusercontent.com/raven-aaron/raven-aaron/cards-output/profile-summary-card-output/vue/1-repos-per-language.svg" alt="Linguagens mais usadas"/>
 
 <br>
 
