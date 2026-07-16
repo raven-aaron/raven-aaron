@@ -4,7 +4,6 @@
 
 </div>
 
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=0E75B6&center=false&vCenter=true&width=560&lines=Automatizando+processos.;Construindo+aplica%C3%A7%C3%B5es+web.;Aprofundando+Linux%2C+Docker+e+DevOps." alt="typing-svg" />
 
 <br>
@@ -77,7 +76,7 @@ Atualmente aprofundando **Linux, Docker, infraestrutura e práticas de DevOps**.
 
 <br>
 
-## 🚀 Em foco no momento
+## Em foco no momento
 
 | Área | O que estou fazendo |
 |---|---|
